@@ -1,6 +1,6 @@
 # CONTRIBUTING Guidelines
 
-
+Hello, this is Ian Philippi and my username is Icp27. 
 
 
 
