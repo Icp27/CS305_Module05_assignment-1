@@ -1,6 +1,7 @@
 # CONTRIBUTING Guidelines
 
-Hello, this is Ian Philippi and my username is Icp27. 
+1. My name is Ian Philippi and my username is Icp27, I am contributing to this file. 
+
 
 
 
